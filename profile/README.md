@@ -61,7 +61,7 @@
 
 ### 카테고리 선택 <br>
 
-<img width="1200" alt="image" src="https://github.com/TUK-2023-Project/frontend/assets/79428205/be2fd3ad-5217-4369-9cbf-c992d3113876" loop="infinite" />
+<img width="1200" alt="image" src="https://github.com/TUK-2023-Project/.github/assets/79428205/255fdd2b-4dc7-49a0-a70b-bb651a7f86db" loop="infinite" />
 <br>
 <br>
 
@@ -75,12 +75,12 @@
 
 #### 올바른 동작일 경우 <br>
 
-<img width="1200" alt="image" src="https://github.com/TUK-2023-Project/frontend/assets/79428205/8eecfb01-ce18-47d2-baa8-8fc41a4fcadf" />
+<img width="1200" alt="image" src="https://github.com/TUK-2023-Project/.github/assets/79428205/d3770cac-14fc-41a6-98d7-75256e0e9cc8" />
 <br>
 
 #### 틀린 동작일 경우 <br>
 
-<img width="1200" alt="image" src="https://github.com/TUK-2023-Project/frontend/assets/79428205/4bcf036e-96d4-4361-9757-a27a8dc42cb3" />
+<img width="1200" alt="image" src="https://github.com/TUK-2023-Project/.github/assets/79428205/2a378728-205c-4868-acf5-7c2c84588d88" />
 
 <br>
 <br>
@@ -107,7 +107,7 @@
 
 ### 공유 <br>
 
-<img width="1200" alt="image" src="https://github.com/TUK-2023-Project/frontend/assets/79428205/2b958aad-f72f-401c-8c23-a0ca3e89d8b0" />
+<img width="1200" alt="image" src="https://github.com/TUK-2023-Project/.github/assets/79428205/7246f73d-f1f7-4405-b775-174e06f30eee" />
 
 <br>
 <br>
@@ -285,7 +285,7 @@ PUBLIC_URL=
 ### 3. Run
 
 ```
-docker-compose -f docker-compose.yml up --build
+docker-compose up --build
 ```
 
 <br>
